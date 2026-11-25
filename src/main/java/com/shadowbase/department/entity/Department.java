@@ -1,6 +1,7 @@
 
 package com.shadowbase.department.entity;
 
+import com.shadowbase.employee.entity.Employee;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
